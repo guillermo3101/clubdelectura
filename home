@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>clubdeLectura</title>
+    <link rel="stylesheet" href="stylehm.css">
+</head>
+<body>
+    <div class="contenedor">
+        <div class="home">
+            <a href="index.html" class="home1">Home</a>
+        </div>
+        <div class="libroteca">
+            <a href="libroteca.html" class="libroteca1">Libroteca</a>
+        </div>
+        <div class="conocenos">
+            <a href="conocenos.html" class="conocenos1">Conocenos</a>
+        </div>
+        <div class="foro">
+            <a href="foro.html" class="foro1">Foro</a>
+        </div>
+    </div>
+
+    <div class="contenedor1">
+        <div class="contenedor1a">
+            <p class="p1">IMAGEN DEL CLUB DE LECTURA</p>
+        </div>
+        <div class="contenedor1b">
+            <p class="p2">INFORMACION DE INTERES</p>
+        </div>
+    </div>
+
+    <div class="contenedor2">
+        <p class="p3">MIRA LOS LIBROS CON MEJOR RESEÑA</p>
+    </div>
+
+    <div class="contenedor3">
+        <div class="contenedor3a">Opinion 1</div>
+        <div class="contenedor3b">Opinion 2</div>
+        <div class="contenedor3c">Opinion 3</div>
+    </div>
+
+    <div class="contenedor4">
+        <div class="contenedor4a">Opinion 1</div>
+        <div class="contenedor4b">Opinion 2</div>
+        <div class="contenedor4c">Opinion 3</div>
+    </div>
+
+    <div class="contenedor5">
+        <div class="contenedor5a">Facebook</div>
+        <div class="contenedor5b">Instagram</div>
+        <div class="contenedor5c">Threads</div>
+    </div>
+</body>
+</html>
